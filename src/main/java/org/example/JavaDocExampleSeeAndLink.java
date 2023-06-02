@@ -28,6 +28,4 @@ public class JavaDocExampleSeeAndLink {
         return num * num;
     }
 
-
-
 }
