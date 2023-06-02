@@ -3,6 +3,7 @@ package org.example;
     /**
     * Dit is een voorbeeld klasse
      * om het gebruik van java doc uit te leggen
+     *
     */
 public class JavaDocExample {
 
