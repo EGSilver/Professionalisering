@@ -15,9 +15,6 @@ public class JavaDocExampleSeeAndLink {
     /**
      * Bereken het kwadraat van een getal.
      *
-     * @param num Het getal waarvan het kwadraat moet worden berekend.
-     * @return Het kwadraat van het opgegeven getal.
-     * @throws IllegalArgumentException als het getal negatief is.
      * @see <a href="https://example.com">Externe Documentatie</a>
      * @deprecated vervangen door {@link #berekenKwadraatMetMath}
      */
