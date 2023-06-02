@@ -18,7 +18,7 @@ public class JavaDocExampleSeeAndLink {
      * @see <a href="https://example.com">Externe Documentatie</a>
      * @deprecated vervangen door {@link #berekenKwadraatMetMath}
      */
-    public int berekenKwadraat(int num) throws IllegalArgumentException { // hoveren over functie om documentatie al te kunnen bekijken
+    public int berekenKwadraat(int num) throws IllegalArgumentException {
         if (num < 0) {
             throw new IllegalArgumentException("Het getal mag niet negatief zijn.");
         }
