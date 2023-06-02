@@ -19,7 +19,7 @@ public class JavaDocExample {
      * @return Het kwadraat van het opgegeven getal.
      * @throws IllegalArgumentException als het getal negatief is.
      */
-    public int berekenKwadraat(int num) throws IllegalArgumentException { // hoveren over functie om documentatie al te kunnen bekijken
+    public int berekenKwadraat(int num) throws IllegalArgumentException { // hover
         if (num < 0) {
             throw new IllegalArgumentException("Het getal mag niet negatief zijn.");
         }
